@@ -1,0 +1,1208 @@
+# depslib dependency file v1.0
+1648814322 source:d:\code\c\qpms\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1647919587 d:\code\c\qpms\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1646396732 d:\code\c\qpms\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1646396732 source:d:\code\c\qpms\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646444425 source:d:\code\c\qpms\readfile.cpp
+	"ReadFile.h"
+
+1646445150 d:\code\c\qpms\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1649670837 source:d:\code\c\qpms\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+
+1649669761 d:\code\c\qpms\encodingtools.h
+	"stdafx.h"
+
+1647924100 source:d:\code\c\qpms\tools.cpp
+	"Tools.h"
+
+1646446115 d:\code\c\qpms\tools.h
+	"stdafx.h"
+
+1649677465 source:d:\code\c\qpms\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1649217294 d:\code\c\qpms\pmsmotif.h
+	"stdafx.h"
+	"EncodingTools.h"
+
+1647706237 d:\code\c\qpms\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1647658633 source:d:\code\c\qpms\hamdistance.cpp
+	"HamDistance.h"
+
+1649670838 source:c:\users\dell\desktop\huyana\qpms\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+
+1649669762 c:\users\dell\desktop\huyana\qpms\encodingtools.h
+	"stdafx.h"
+
+1647919588 c:\users\dell\desktop\huyana\qpms\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1646396734 source:c:\users\dell\desktop\huyana\qpms\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\qpms\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1647658634 source:c:\users\dell\desktop\huyana\qpms\hamdistance.cpp
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\qpms\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1648814324 source:c:\users\dell\desktop\huyana\qpms\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\qpms\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\qpms\tools.h
+	"stdafx.h"
+
+1649217296 c:\users\dell\desktop\huyana\qpms\pmsmotif.h
+	"stdafx.h"
+	"EncodingTools.h"
+
+1649732138 source:c:\users\dell\desktop\huyana\qpms\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1646444426 source:c:\users\dell\desktop\huyana\qpms\readfile.cpp
+	"ReadFile.h"
+
+1647924102 source:c:\users\dell\desktop\huyana\qpms\tools.cpp
+	"Tools.h"
+
+1653294664 source:c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1652928688 source:c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1653358843 source:c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\tools.h
+	"stdafx.h"
+
+1653471180 c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1653471272 source:c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1652928724 source:c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\10flod_qpms\(9,2)\qpms_(9,2,5)\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1653294664 source:c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1652928688 source:c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1653358843 source:c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\tools.h
+	"stdafx.h"
+
+1653471180 c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1653663328 source:c:\users\dell\desktop\huyana\different_t_qpms\qpms_(13,4,10)\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1653294664 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1652928688 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1653358843 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\tools.h
+	"stdafx.h"
+
+1653471180 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1655954727 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_9_test\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1655958098 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1655958098 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1655958098 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\tools.h
+	"stdafx.h"
+
+1655976820 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1655976564 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1652928724 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_9_test\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1655958098 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1655976861 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1655976820 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1646445152 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1652928738 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1646446116 c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\tools.h
+	"stdafx.h"
+
+1656000090 source:c:\users\dell\desktop\huyana\different_q_qpms\v1_q=0.5-0.9\qpms_(13,4,10)_7\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1656000090 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\tools.h
+	"stdafx.h"
+
+1656747895 c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1656746939 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\qpms_(13,4,10)_5_test_parttime\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1656753259 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1656747895 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\tools.h
+	"stdafx.h"
+
+1656775307 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v3\qpms_(13,4,10)_8\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1656992759 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\tools.h
+	"stdafx.h"
+
+1656992619 c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1656992537 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\有效算法\v4-long\qpms_(13,4,10)_8\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1656994128 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1656992619 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\differentt\tools.h
+	"stdafx.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1661266386 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\tools.h
+	"stdafx.h"
+
+1661251437 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1661265890 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\v4-long\searchfromthreelayer\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1663413604 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\tools.h
+	"stdafx.h"
+
+1661396876 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1663413505 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\q\q765 - 副本\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1670921877 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\tools.h
+	"stdafx.h"
+
+1670652912 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1670921861 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\changealgorithm\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\changealgorithm\tools.h
+	"stdafx.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1670946588 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\tools.h
+	"stdafx.h"
+
+1670652912 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1670946577 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\t\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1655958098 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\encodingtools.h
+	"stdafx.h"
+
+1653294664 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1652928675 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1670946577 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1670652912 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1652928724 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1652928738 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1646446116 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\q\0.2-0.4\tools.h
+	"stdafx.h"
+
+1682691893 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\encodingtools.cpp
+	"EncodingTools.h"
+	<typeinfo>
+	<bits/stdc++.h>
+
+1649669762 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\encodingtools.h
+	"stdafx.h"
+
+1682691797 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\stdafx.h
+	<iostream>
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1682691893 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\getfilepathname.cpp
+	<bits/stdc++.h>
+	"GetFilePathName.h"
+
+1646396734 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\getfilepathname.h
+	"stdafx.h"
+	<io.h>
+
+1656747265 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\hamdistance.cpp
+	<bits/stdc++.h>
+	"HamDistance.h"
+
+1647706238 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\hamdistance.h
+	"stdafx.h"
+	<math.h>
+
+1682691432 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\pmsmotif.cpp
+	"PMSMotif.h"
+	"HamDistance.h"
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<iterator>
+
+1682691893 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\pmsmotif.h
+	"stdafx.h"
+	<bits/stdc++.h>
+	"EncodingTools.h"
+
+1682691893 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\readfile.cpp
+	<bits/stdc++.h>
+	"ReadFile.h"
+
+1646445152 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\readfile.h
+	"stdafx.h"
+	<fstream>
+
+1682691755 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\tools.cpp
+	<bits/stdc++.h>
+	"Tools.h"
+
+1682691893 c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\tools.h
+	"stdafx.h"
+
+1682312012 source:c:\users\dell\desktop\huyana\differentversionsofqpms\efficientalgorithms\effectalgrim\20221213_experience\pmmotif\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"stdafx.h"
+	"GetFilePathName.h"
+	"ReadFile.h"
+	"Tools.h"
+	"PMSMotif.h"
+

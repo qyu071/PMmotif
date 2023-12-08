@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="qPMS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/qPMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/qPMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="EncodingTools.cpp" />
+		<Unit filename="EncodingTools.h" />
+		<Unit filename="GetFilePathName.cpp" />
+		<Unit filename="GetFilePathName.h" />
+		<Unit filename="HamDistance.cpp" />
+		<Unit filename="HamDistance.h" />
+		<Unit filename="PMSMotif.cpp" />
+		<Unit filename="PMSMotif.h" />
+		<Unit filename="ProbeThreeLayerLocation.h" />
+		<Unit filename="ReadFile.cpp" />
+		<Unit filename="ReadFile.h" />
+		<Unit filename="Tools.cpp" />
+		<Unit filename="Tools.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="stdafx.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
